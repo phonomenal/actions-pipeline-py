@@ -1,5 +1,7 @@
 # Chapter 04_02
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/a78faf7b-eab0-4110-bc6f-e478ed4d6665.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/actions-pipeline-py?orgId=650162616495)  
+
 - Create a repository on GitHub using the [New Repository](https://github.com/new) page.  Name it something that relates to the lesson like `exercise-files`.
 
 - In a terminal, run the following commands to initialize the directory as a git repository.
